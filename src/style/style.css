@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.buttons button {
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #b100cd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    padding: 1rem 1.3rem;
+
+}
